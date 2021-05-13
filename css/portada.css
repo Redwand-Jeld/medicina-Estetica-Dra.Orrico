@@ -1,0 +1,40 @@
+
+
+#logo {margin: 10px;
+width:75%;}
+
+
+
+#footer-text{margin-left: -30px;}
+
+.WhatssApp{
+	z-index: -100000px;
+	position: absolute;
+
+}
+#scrollUp {
+	bottom: 100px;
+	right: 10px;
+	width:40px;
+	height:40px;
+	background: url(../img/top.png) ;
+	background-size: cover;
+  }
+
+   body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  h1 {
+	font-size: 3.2rem;
+	line-height: 110%;
+	margin: 2.8rem 0 1.68rem 0;
+}
+  .card-text-space{
+	  margin-left:10px;
+  }
